@@ -95,3 +95,34 @@ git add .
 git branch
 git checkout -b solution
 git add .
+git commit -m "initial solution commit"
+git push
+__vsc_prompt_cmd_original
+git push --set-upstream origin solution
+__vsc_prompt_cmd_original
+cd number_guessing_game
+git branch
+git add .
+git commit -m "feat: create function outline"
+git add .
+git commit -m "feat: functions complete v1"
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+./number_guess.sh
+git add .
+git commit -m "fix: adjusted final message & directional hints to be appropriate"
+git add .
+git commit -m "fix: adjusted to not show secret number"
+git branch
+git add .
+git commit -m "fix: adjusted final message"
+./number_guess.sh
+git add .
+git commit -m "fix: final message fix"
+cd ..
+git branch
+git add .
