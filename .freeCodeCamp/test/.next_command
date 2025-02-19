@@ -126,3 +126,7 @@ git commit -m "fix: final message fix"
 cd ..
 git branch
 git add .
+git commit -m "working solution"
+git push
+git branch main
+git checkout main
